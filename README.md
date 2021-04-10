@@ -20,11 +20,12 @@
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)-->
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mo7ammedSharaki?color=blue&label=Follow%20me&logo=twitter&logoColor=blue&style=for-the-badge)
-## i'm 
+## About me
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to play volleyball 🏐 and play listening podcast 
+- 🤷‍♂️ I'm 15
+- 🌱 I’m currently learning programing to become software engineer
+- 👯 I look forward to collaborating with people of the same age to learn
+- 📍    fream to become software engineer 💻 
 
 ### Connect with me:
 
