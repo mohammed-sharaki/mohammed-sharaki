@@ -29,7 +29,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://img.icons8.com/color/000000/twitter--v1.png"/>](https://github.com/mohammed-sharaki)
+[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://img.icons8.com/color/000000/twitter--v1.png"/>](https://twitter.com/Mo7ammedSharaki)
 [<img align="left" alt="codeSTACKr | telegram" width="30px"  src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>](https://t.me/mohammedmostafaa)
 
 <br />
