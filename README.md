@@ -25,7 +25,7 @@
 - 🤷‍♂️ I'm 15
 - 🌱 I’m currently learning programing to become software engineer
 - 👯 I look forward to collaborating with people of the same age to learn
-- 📍    fream to become software engineer 💻 
+- 📍    Dream to become software engineer 💻 
 
 ### Connect with me:
 
