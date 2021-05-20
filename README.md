@@ -26,6 +26,7 @@
 - 🌱 I’m currently learning programing to become software engineer
 - 👯 I look forward to collaborating with people of the same age to learn
 - 📍    Dream to become software engineer 💻 
+- 🖥️ Youtube is my perfect place to learn coding
 
 ### Connect with me:
 
