@@ -48,7 +48,7 @@
 
 -->
   
-<summary>Watch my contribution graph here.</summary>
+<h4>Watch my contribution graph here.</h4>
   
  <p align="center">
   <img align="center" width="10000" height="500" src="https://activity-graph.herokuapp.com/graph?username=Mo7ammedSharaki&theme=github" >
@@ -70,7 +70,7 @@
 </p>
 
 
-  <summary>Watch me Social 🤔.</summary>
+  <h4>Watch me Social 🤔.</h4>
   <div align="center">
     <a href="https://twitter.com/Mo7ammedSharaki">
       <img width="550" src="https://github-readme-twitter.gazf.vercel.app/api?id=Mo7ammedSharaki&layout=wide&show_reply=off&show_retweet=on" />
