@@ -1,51 +1,148 @@
-### Hi there 👋
+<p align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20There%20!%20I%20am%20mohammed;Welcome%20to%20my%20Github%20Profile;⭐OPEN%20SOURCE%20FOR%20THE%20WIN⭐;You%20are%20great!✨;Thank%20You❤️;&center=true&width=450&height=25"></a></p>
+
+<p align="center">
+  <a href="https://suubh.github.io/Shubham/index.html">
+  <img align="center" src="https://user-images.githubusercontent.com/47265493/115407151-6e13d480-a20d-11eb-9e87-bcc6d3d88c30.gif" height="150px" width="230px" > 
+  </a>
+</p>
+
+
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/moammed-sharaki-66a2371b0/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp
+  <a href="https://www.instagram.com/mo7ammedsharaki">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+   &nbsp
+  <a href="https://ar.quora.com/profile/Mohammed-Sharaki">
+    <img alt="followers" title="Follow me on quora" src="https://img.shields.io/badge/Quora-D03827?style=for-the-badge&logo=quora&logoColor=1DA1F2">
+  </a>
+  &nbsp
+  <a href="https://www.twitter.com/Mo7ammedSharaki">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  &nbsp
+</p>
+
+
+
+
+
+<br>
+<a href="https://suubh.github.io/Shubham/index.html"><img align="center"src="https://user-images.githubusercontent.com/67878024/122482870-0e9e2f00-cfda-11eb-9edb-9702f2ec526c.png"</a>
+  
+    
+<ul>
+  <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Machine Learning.I have knowledge of <a href="https://github.com/suubh/Machine-Learning-in-Python">ML algorithms</a> and worked on Intrusion detection system and algorithms analysis in datasets.Looking forward to learn DNN and try Reinforcement Learning. </li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> I’m currently learning Web development specifically MERN stack for web implementation of some projects and interest.I have some basic knowledge of <a href="https://github.com/suubh/Hello-Android">Android</a> using Kotlin.</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/> I’m looking to collaborate on Open Source and participate in <a href="https://devpost.com/shubham-btech18?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">Hackathons</a>.</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/> Ask me about anything, its always fun to learn and discuss.</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/> Fun fact: I am an enthusiast Photographer. </li>
+</ul>
+<br>
+
+
+  <summary>Watch my contribution graph here.</summary>
+  
+ <p align="center">
+  <img align="center" width="10000" height="500" src="https://activity-graph.herokuapp.com/graph?username=Mo7ammedSharaki&theme=github" >
+ </p>   
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mo7ammedSharaki&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7ammedSharaki&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+<br>
+
+
+
+
+<p align="center"> 
+  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=Mo7ammedSharaki&theme=dark" alt="suubh" /> 
+
+</p>
+
+
+  <summary>Watch me Social 🤔.</summary>
+  <div align="center">
+    <a href="https://twitter.com/Mo7ammedSharaki">
+      <img width="550" src="https://github-readme-twitter.gazf.vercel.app/api?id=Mo7ammedSharaki&layout=wide&show_reply=off&show_retweet=on" />
+    </a>
+ </p>
+  </div>
+
+<h1 align="center">thanks to visit my Github profile ⠕</p>
+
+
+
 <!--
-### Hi there 👋
-## we are Team from middle east 
-- 🔭 we are currently working on 
+**suubh/suubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw)
+    ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&hide_border=false)
+https://github.com/shub______/github-readme-twitter
+    <img align="center" alt="Shubham LinkdeIN" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?logoColor=green" />
+    <img align="center" alt="Shubham Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+    <img align="center" alt="Shubham Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="center" alt="Shubham Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+    <img align="center" alt="Shubham DEV" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png">
+<details>
+  <summary> Watch my trophies .</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=suubh&theme=monokai"/>
+  </a>
+</p>
+</details>
+| ![Subham GitHub Statistics](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suubh&theme=tokyonight) |
+| --- | --- |
+| ![ GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suubh&theme=dark) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+
+<p><strong>Languages and Tools:<strong></p>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+<p>CREEPER
+  <img width="50px" src="https://media.giphy.com/media/lpHQvZu6stHKo/giphy.gif"/>
+ </p>
+  HELLO -https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif
+<img src=https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif height="65px" width="90px" >
+
+
+<p align="center"><br>Profile visits<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p><br>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<code><img height="40" src="https://miro.medium.com/max/938/1*XEzukXOEUudcXkyrouu3vw.jpeg"></code>
+
+<code><img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="30px"/></code>
+
+<code><img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="30px"/></code>
+
+
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email]()
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/NG_Programmers3)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [YouTube ](https://www.youtube.com/channel/UCJ-uyFTXsTEbI0GBQwTaeiA)
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
-<!--
-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?NGP-Team=YourUsername&repo=L20Y)
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NGP-Team)](https://github.com/anuraghazra/github-readme-stats)
--->
-### Hi there, I'm mohammed [mohammed-sharaki](https://github.com/mohammed-sharaki) 👋
-
-<!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)-->
-![Twitter Follow](https://img.shields.io/twitter/follow/Mo7ammedSharaki?color=blue&label=Follow%20me&logo=twitter&logoColor=blue&style=for-the-badge)
-## About me
-
-- 🤷‍♂️ I'm 15
-- 🌱 I’m currently learning programing to become software engineer
-- 👯 I look forward to collaborating with people of the same age to learn
-- 📍    Dream to become software engineer 💻 
-- 🖥️ Youtube is my perfect place to learn coding
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://img.icons8.com/color/000000/twitter--v1.png"/>](https://twitter.com/Mo7ammedSharaki)
-[<img align="left" alt="codeSTACKr | telegram" width="30px"  src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>](https://t.me/mohammedmostafaa)
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="c++" width="26px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"/>
-<img align="left" alt="c++" width="26px" src="https://img.icons8.com/color/2x/python.png"/>
-<br />
-<br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="NGP-Team's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mohammed-sharaki&show_icons=true&hide_border=true" />
-</details>
