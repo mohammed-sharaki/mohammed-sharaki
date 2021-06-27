@@ -1,11 +1,17 @@
-<p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20There%20!%20I%20am%20mohammed;Welcome%20to%20my%20Github%20Profile;⭐OPEN%20SOURCE%20FOR%20THE%20WIN⭐;You%20are%20great!✨;Thank%20You❤️;&center=true&width=450&height=25"></a></p>
+<h1 align="center">Hi 👋, I'm Mohamed sharaki</h1>
+<h3 align="center">A 15 year old  from Egypt</h3>
 
-<p align="center">
-  
-  <img align="center" height="300" width="400" src="https://user-images.githubusercontent.com/67878024/122484432-465aa600-cfdd-11eb-90ca-47e47205323d.gif"> 
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mo7ammedSharaki&theme=onedark&margin-w=15&margin-h=15&column=7" alt="Mo7ammedSharaki" /></a> </p>
+
+<div>
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=willdoescode&count_private=true&include_all_commits=true&theme=onedark" alt="Mo7ammedSharaki" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7ammedSharaki&layout=compact&theme=onedark&langs_count=15" />
+</div>
+
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mo7ammedSharaki&label=Profile%20views&color=0e75b6&style=flat" alt="Mo7ammedSharaki" /> </p>
+
 
 
 
