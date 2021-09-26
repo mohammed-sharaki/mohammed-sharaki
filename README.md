@@ -17,14 +17,8 @@
 
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/moammed-sharaki-66a2371b0/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp
-  <a href="https://www.instagram.com/mo7ammedsharaki">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-   &nbsp
+ 
+
   <a href="https://ar.quora.com/profile/Mohammed-Sharaki">
     <img alt="followers" title="Follow me on quora" src="https://img.shields.io/badge/Quora-D03827?style=for-the-badge&logo=quora&logoColor=1DA1F2">
   </a>
